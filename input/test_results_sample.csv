@@ -1,0 +1,10 @@
+test case,status,execution time,comments
+Login Functionality,Passed,2.5s,All validations passed
+Sign-Up Form,Failed,3.2s,Field validation failed
+Search Feature,Passed,1.8s,Returned correct results
+Add to Cart,Skipped,0.0s,Test skipped
+Checkout Process,Failed,4.0s,Payment gateway error
+Profile Update,Passed,2.2s,Profile updated successfully
+Password Reset,Passed,2.0s,Reset email sent
+Notifications,Skipped,0.0s,Notifications disabled
+Admin Panel Access,Failed,5.1s,Unauthorized access detected
